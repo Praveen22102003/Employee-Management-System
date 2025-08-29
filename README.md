@@ -18,5 +18,5 @@ This project demonstrates how to perform basic **CRUD operations** (Create, Read
 - **Java (JDK 8 or above)**  
 - **JDBC**  
 - **MySQL**  
-- **IntelliJ IDEA / Eclipse / NetBeans**  
+- **IntelliJ IDEA /**  
  
